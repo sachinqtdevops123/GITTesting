@@ -1,0 +1,6 @@
+--
+- hosts: all
+  var:
+  task:
+  handlers:        
+
